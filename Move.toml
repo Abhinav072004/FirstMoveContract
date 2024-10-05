@@ -1,0 +1,22 @@
+[package]
+
+name = "hello market"
+version = "0.1.3"
+license= "MIT"
+
+
+[address]
+// address of the module that contains the marketplace
+hello_market= "_" 
+std ="0x1" // standard library
+aptos_framework = "0x1" //address
+aptos_std = "0x1"
+aptos_token = "0x3"
+
+[dependencies]
+
+AptosFramework = _  //github
+AptosStdLib = _
+AptosToken = _
+
+
